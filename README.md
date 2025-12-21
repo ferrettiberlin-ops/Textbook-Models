@@ -8,3 +8,9 @@ DGM Valuation is a script that takes the Dividend Growth Model learnt in FINA230
 
 The tickers used are notoriously known for being DGM appropriate
 
+# Daily Tracker 
+
+The Daily Tracker is a Macros Enabled Excel File that allows you to press various buttons to log the amount of time spent on a task while recording the days/times that you logged it without overlapping different tasks on the same day. It is based on the ISOM2010 Lab that taught us how to use VBA for Business Analytics. 
+
+
+
